@@ -3,10 +3,6 @@
 ![Browser sketchnote](images/browser.jpg)
 > Sketchnote by [Wassim Chegham](https://dev.to/wassimchegham/ever-wondered-what-happens-when-you-type-in-a-url-in-an-address-bar-in-a-browser-3dob)
 
-## Pre-Lecture Quiz
-
-[Pre-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/23)
-
 ### Introduction
 
 Browser extensions add additional functionality to a browser. But before you build one, you should learn a little about how browsers do their work.
@@ -149,10 +145,6 @@ Congratulations, you've taken the first steps towards building a browser extensi
 ## 🚀 Challenge
 
 Take a look at a browser extension store and install one to your browser. You can examine its files in interesting ways. What do you discover?
-
-## Post-Lecture Quiz
-
-[Post-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/24)
 
 ## Review & Self Study
 
